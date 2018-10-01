@@ -1,6 +1,6 @@
 
 class Tic_Tac_Toe:
-
+    #class Tic_Tac_Toe
     def __init__(self):
         self.board = [" "]*9
 
